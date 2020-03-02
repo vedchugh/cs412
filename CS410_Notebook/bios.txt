@@ -1,0 +1,655 @@
+Dana Angluin, B.A., Ph.D. University of California at Berkeley, 1969, 1976.  J oined  Y ale Faculty 1979. 
+ 
+   
+ Professor of Computer Science  Address:  AKW 414, 51 Prospect St, New Haven, CT 06511-8937 203-432-1273 dana.angluin@yale.edu Professor Angluin is interested in machine learning and computational learning theory. Algorithmic modeling and analysis of learning tasks gives insight into the phenomena of learning, and suggests avenues for the creation of tools to help people learn, and for the design of “smarter” software and artificial agents that flexibly adapt their behavior. Professor Angluin’s thesis was among the first work to apply complexity theory to the field of inductive inference. Her work on learning from positive data reversed a previous dismissal of that topic, and established a flourishing line of research. Her work on learning with queries established the models and the foundational results for learning with membership queries. Recently, her work has focused on the areas of coping with errors in the answers to queries, map-learning by mobile robots, and fundamental questions in modeling the interaction of a teacher and a learner. 
+ Professor Angluin helped found the Computational Learning Theory conference, and has served on program committees for COLT and on the COLT Steering committee. She served as an area editor for Information and Computation from 1989-1992. She organized the Computer Science Department’s Perlis Symposium in April 2001: “From Statistics to Chat: Trends in Machine Learning.” She is a member of the Association for Computing Machinery and the Association for Women in Mathematics. 
+ 
+ Representative Publications: 
+ 
+ 
+   
+ 
+ 
+ “Queries revisited,” Proc. ALT 2001, 12-31,2001. 
+ 
+ 
+   
+ 
+ 
+ “Robot navigation with distance queries,” with J. Westbrook and W. Zhu, SIAM Computing, 30:110-144, 2000. 
+ 
+ 
+   
+ 
+ 
+ “Learning regular sets from queries and counterexamples,” Information and Computation, 75:87-106, 1989. 
+ 
+ 
+   
+ 
+ 
+ “Finding patterns common to a set of strings,” Journal of Computer and System Sciences, 21:46-62, 1980. 
+ 
+
+J ames Aspnes, PhD (CS) 1992, Carnegie-Mellon University; SM (EECS) 1987, Massachusetts Institute of  T echnology; SB (Math) 1987, Massachusetts Institute of  T echnology.  J oined  Y ale Faculty 1993. 
+ 
+   
+ Professor of Computer Science; Director of Undergraduate Studies Computer Science (on leave Fall 2018) Address:  AKW 401, 51 Prospect St, New Haven, CT 06511-8937 203-533-9862  james.aspnes@yale.edu Website James Aspnes is a Professor of Computer Science at Yale University. He holds an S.B. in Mathematics and an S.M. in Computer Science and Engineering from MIT, and a Ph.D. in Computer Science from Carnegie-Mellon University. 
+ James Aspnes’ research emphasizes the use of randomization to solve difficult core problems in the theory of distributed algorithms. His recent work has concentrated on tools for managing large-scale loosely structured systems as found in peer-to-peer networks and wireless sensor networks. These tools include novel distributed data structures supporting efficient range queries over large data sets scattered across many machines, new models of distributed computation that capture the limited resources of individual nodes in sensor systems, and mechanisms for providing security and fault-tolerance in large-scale systems with no restrictions on the arrival of new and possibly malevolent participants. His interests also include related problems in biology, economics, and learning theory. 
+ Professor Aspnes is a member of the editorial board for Algorithmica, has served as program committee chair for the PODC 2005 and DCOSS 2007 conferences, and has served on numerous conference program committees. He is a recipient of the Dylan Hixon Prize for Teaching Excellence in the Natural Sciences. 
+ Representative Publications: 
+ 
+ Learning a circuit by injecting values, with Dana Angluin, Jiang Chen, and Yinghua Wu. Thirty-Eighth Annual ACM Symposium on Theory of Computing , May 2006, pp. 584-593. 
+ 
+ 
+ Computation in networks of passively mobile finite-state sensors, with Dana Angluin, Zoë Diamadi, Michael J. Fischer, and René Peralta. Distributed Computing 18(4):235-253, March 2006. (PODC 2004 special issue). 
+ 
+ 
+ Skip graphs, with Gauri Shah. Fourteenth Annual ACM-SIAM Symposium on Discrete Algorithms, January 2003, pp. 384–393. 
+ 
+
+Abhishek Bhattacharjee, Ph.D., Electrical Engineering, Princeton University; B.Eng, Honors Electrical Engineering, McGill University.  J oined  Y ale Faculty 2019. 
+ 
+   
+ Associate Professor of Computer Science  Address:  AKW 213, 51 Prospect Street, New Haven, CT 06511 abhishek@cs.yale.edu Website Abhishek works at the boundary of computer systems architecture and systems software. His focus is on both classical systems that process large amounts of data (like data centers) and also emerging systems for medical applications (in particular, the brain sciences). 
+ Abhishek received the Chancellor’s Award for Faculty Excellence in Research at Rutgers University, where he was on the faculty from 2010 to 2018. Before that, he completed his PhD from Princeton University, where he was awarded the Gordon Wu Prize, and his BEng from McGill University, where he received the British Association Medal for Great Distinction. 
+ 
+  
+
+Y ang Cai, Ph.D., Computer Science, 2013 MIT;  B.S., EECS, 2008  P eking University.  J oined  Y ale Faculty 2019. 
+ 
+   
+ Assistant Professor of Computer Science and Economics Address:  AKW 509, 51 Prospect Street, New Haven, CT 06511 203-432-1229 yang.cai@yale.edu Website Yang Cai received his Ph.D. in computer science from MIT and was a postdoctoral researcher at UC Berkeley. He did his undergraduate study at Peking University. Yang’s research interests include theoretical computer science, economics and computation, learning, statistics, and probability, as well as online algorithms. 
+
+J ulie Dorsey, B.S., B. Arch. 1987, M.S. 1990, Ph.D. 1993 Cornell University.  J oined  Y ale Faculty 2002. 
+ 
+   
+ Frederick W. Beinecke Professor of Computer Science Address:  AKW 508, 51 Prospect St, New Haven, CT 06511-8937 203-432-4249 julie.dorsey@yale.edu Website Julie Dorsey is a Frederick W. Beinecke Professor of Computer Science at Yale University, where she teaches computer graphics. She came to Yale in 2002 from MIT, where she held tenured appointments in both the Department of Electrical Engineering and Computer Science (EECS) and the School of Architecture. She received undergraduate degrees in architecture and graduate degrees in computer science from Cornell University. 
+ With architecture as a driving application, she has studied a wide range of problems in computer graphics, including sketch-based interfaces for early conceptual design, acceleration methods for real-time rendering, and the creation of detailed photorealistic renderings. Her contributions also include algorithms for lighting and acoustical design and visualization. She is particularly well known for her research in modeling the appearance of materials – for example, she pioneered techniques to model the visual richness of irregular metal patinas and eroded stone. Her current research interests include photorealistic image synthesis, material and texture models, illustration techniques, and interactive visualization of complex scenes, with an application to urban environments. 
+ In addition to serving on numerous conference program committees, she is Editor-in-Chief of ACM Transactions on Graphics and an editorial-board member for Computers and Graphics and Foundations and Trends in Computer Graphics and Vision, and was Papers Chair for ACM SIGGRAPH 2006. She has received several professional awards, including MIT’s Edgerton Faculty Achievement Award, a National Science Foundation Career Award, and an Alfred P. Sloan Foundation Research Fellowship. She is a fellow of the Radcliffe Institute at Harvard (2010-11) and the Whitney Humanities Center at Yale (2010-12). Together with two of her colleagues, she recently helped establish the new  Computing and the Arts  major at Yale. 
+  
+ 
+ Representative Publications: 
+ 
+ 
+ “The Mental Canvas: A Tool for Conceptual Architectural Design and Analysis,”  with S. Xu, G. Smedresman, H. Rushmeier, and L. McMillan. In Proceedings of the 15th Pacific Conference on Computer Graphics and Applications, October 2007, pp.201-210. 
+ 
+ 
+ “Context-Aware Textures,”  with J. Lu, A. Georghiades, H. Wu, L. Wei, B. Guo, and H. Rushmeier. ACM Transactions on Graphics, 26(1): 31-62, January 2007. 
+ 
+ 
+ “Fast Bilateral Filtering for the Display of High-Dynamic-Range Images,”  with F. Durand. ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH), 21(3): 257-266, July 2002. 
+ 
+ 
+ “A Projective Drawing System,”  with O. Tolba and L. McMillan. Proceedings of the 2001 ACM Symposium on Interactive 3D Graphics (Research Triangle Park, NC), pages 25-34, March 2001. 
+ 
+ 
+ “Digital Materials and Virtual Weathering,”  with P. Hanrahan. Scientific American, Vol. 282(2): 46-53, February 2000. 
+ 
+ 
+ “Modeling and Rendering of Weathered Stone,”  with A. Edelman, H. Jensen, J. Legakis, and H. Pedersen. Computer Graphics (Proceedings of ACM SIGGRAPH), 33(4) (August 1999) 225-234. 
+ 
+
+Stanley Eisenstat, M.S., Ph.D., Stanford University, 1967, 1972; B.S., Case Institute of  T echnology, 1966.  J oined  Y ale Faculty 1971. 
+ 
+   
+ Professor of Computer Science Address:  AKW 208, 51 Prospect St, New Haven, CT 06511-8937 203-432-1246 stanley.eisenstat@yale.edu Website Stanley Eisenstat’s major research interests include numerical linear and nonlinear algebra, direct and iterative methods for solving sparse linear systems, and parallel computing. 
+ He serves as an associate editor of the Journal of the ACM and is a member of the editorial board of the SIAM Journal on Matrix Analysis and Applications. 
+ 
+ Representative Publications: 
+ 
+ 
+ “An Efficient Algorithm for Computing a Strong Rank-Revealing QR Factorization,” with M. Gu, SIAM Journal on Scientific Computing, 17(4), July 1996. 
+ 
+ 
+ “Relative Perturbation Techniques for Singular Value Problems,” with I.C.F. Ipsen, SIAM Journal on Numerical Analysis 32(5):1972-1988, October 1995. 
+ 
+ 
+ “Globally Convergent Inexact Newton Methods,” with H.F. Walker, SIAM Journal on Optimization 4(2):393-422, May 1994. 
+ 
+ 
+ “The Theory of Elimination Trees for Sparse Unsymmetric Matrices”, with Joseph W. H. Liu, SIAM Journal on Matrix Analysis 26(3):686-705, March-April 2005. 
+ 
+
+J oan Feigenbaum, B.A., Mathematics, Harvard, 1981 Ph.D., Computer Science, Stanford, 1986.  J oined  Y ale Faculty 2000. 
+ 
+   
+ Grace Murray Hopper Professor of Computer Science and Economics; Professor (Adjunct) of Law Address:  AKW 512, 51 Prospect St, New Haven, CT 06511-8937 203-432-6432 joan.feigenbaum@yale.edu Website Joan Feigenbaum is the Grace Murray Hopper Professor of Computer Science at Yale University. She received a B.A. in Mathematics from Harvard and a Ph.D. in Computer Science from Stanford. Between finishing her Ph.D. in 1986 and starting at Yale in 2000, she was with AT&T, most recently in the Information Sciences Research Center of the AT&T Shannon Laboratory in Florham Park, NJ. There she established a research group in the emerging area of algorithmics for massive data sets and served as manager of the group for two years. 
+ Professor Feigenbaum’s research interests include Internet algorithms, computational complexity, security and privacy, and digital copyright. She has a long-standing interest in fundamental problems in complexity theory that are motivated by cryptology and is co-inventor (with former colleagues Matt Blaze and Jack Lacy) of the security-research area of “trust management.” More recently, she has worked on basic algorithms for massive data sets, particularly those generated in network operations and business-to-consumer e-commerce. With collaborators Sampath Kannan, Martin Strauss, and Mahesh Viswanathan, Professor Feigenbaum has devised several highly influential algorithms for network-generated massive data, including a randomized algorithm for deciding whether two streams of router measurements are approximately equivalent and another for deciding whether a stream is close to having the “groupedness” property (a natural relaxation of the sortedness property). Within the area of e-commerce foundations, she has also worked on the interplay of incentives and computation. Using tools from microeconomics and game theory, computer scientists are now developing a theory of “incentive-compatible” distributed computation. In joint work with Arvind Krishnamurthy, Christos Papadimitriou, Rahul Sami, and Scott Shenker, Professor Feigenbaum has studied incentive-compatible protocols for multicast cost/sharing and interdomain routing. 
+ Professor Feigenbaum has an extensive record of distinguished service to the Computer Science community. From 1997 to 2002, she served as Editor-in-Chief of the Journal of Cryptology. She has also been an editorial-board member for the SIAM Journal on Computing, Program Chair for the Crypto 1991 and Complexity 1998 conferences, and Program Committee member for numerous conferences and workshops. Well known for her ability to establish and explicate research priorities, Professor Feigenbaum has given many high-profile, direction-setting, invited talks, including “Security and Privacy in the Information Economy” at the 1997 Grace Hopper Celebration of Women in Computing, “Games, Complexity, and Approximation Algorithms” at the 1998 International Congress of Mathematicians, and “Massive Graphs: Algorithms, Applications, and Open Problems” at the 1999 annual meetings of the American Mathematical Society and the Society for Industrial and Applied Mathematics. 
+ Awards and honors: 
+ Member, Connecticut Academy of Science and Engineering, 2013 – Present 
+ Fellow, American Association for the Advancement of Science, 2012 – Present 
+ Connecticut Technology Council “Women of Innovation,” 2012 
+ Fellow, Association for Computing Machinery, 2001 – Present 
+ 
+ Representative Publications: 
+ 
+ 
+ J. Feigenbaum and B. Ford, “Multiple Objectives of Lawful-Surveillance Protocols,” in  Proceedings of the 25th International Workshop on Security Protocols , Lecture Notes in Computer Science, volume 10476, Springer, 2017, pp. 1-8. 
+ 
+ 
+ J. Feigenbaum and B. Ford, “Seeking Anonymity in an Internet Panopticon,”  Communications of the ACM   58:10  (October 2015), pp. 58-69. 
+ 
+ 
+ J. Feigenbaum, A. D. Jaggard, and R. Wright, “Towards a Formal Model of Accountability,” in  Proceedings of the 14th ACM New Security Paradigms Workshop , 2011, pp. 45-56. 
+ 
+ 
+ J. Feigenbaum, C. Papadimitriou, R. Sami, and S. Shenker, “A BGP-based Mechanism for Lowest-Cost Routing,”  Distributed Computing   18  (2005), pp. 61-72. 
+ 
+ 
+ “Testing and Spot Checking of Data Streams,” with S. Kannan, M. Strauss, and M. Viswanathan, Algorithmica 34:67-80, 2002. 
+ 
+ 
+ “Sharing the Cost of Multicast Transmissions,” with C. Papadimitriou and S. Shenker, Journal of Computer and System Sciences, 63:21-41, 2001 (special issue on Internet Algorithms). 
+ 
+ 
+ “Compliance Checking in the PolicyMaker Trust-Management System,” with M. Blaze and M. Strauss, Proceedings of the 2nd Financial Crypto Conference, Lecture Notes in Computer Science, v. 1465, Springer, Berlin, 1998, pp. 254-274. 
+ 
+ 
+ “Random Debaters and the Hardness of Approximating Stochastic Functions,” with A. Condon, C. Lund, and P. Shor, SIAM Journal on Computing 26:369-400, 1997. 
+ 
+
+Michael Fischer, B.S., University of Michigan, 1963 M.A., Ph.D., Harvard University, 1965, 1968.  J oined  Y ale Faculty 1981. 
+ 
+   
+ Professor of Computer Science  Address:  AKW 408, 51 Prospect St, New Haven, CT 06511-8937 203-432-1270 michael.fischer@yale.edu Website Michael Fischer’s research interests include cryptographic protocols and security, theory of parallel and distributed systems, and discrete algorithms. Fischer is widely known for his work on the distributed consensus problem and for his “parallel prefix” algorithm that forms the basis of the “scan” operation fundamental to many parallel algorithms. Fischer directed one of the first Ph.D. dissertations on secure and verifiable e-voting (in the mid-1980’s) and has developed information-theoretically secure cryptosystems based on random card deals. Fischer is currently studying trust from an algorithmic point of view with a goal of allowing e-commerce systems to automatically learn and utilize necessary trust relationships. 
+ Fischer is chair of the International Scientific Advisory Board for the Max-Planck-Institute for Computer Science in Saarbrücken, Germany, and is Guest Professor of Wuhan University and member of Academic Committee of the State Key Laboratory on Software Engineering, Wuhan, China. He is a member of the editorial board of Acta Informatica. He is an ACM fellow and previously served as Editor-in-Chief of the Journal of the ACM. He has served on the Advisory Committee to the National Science Foundation and on the board of directors of the Computing Research Association, where he was a founding member of the CRA subcommittee on the Status of Women in Computer Science. He is active in the Yale Figure Skating Club, having served many terms on the executive committee as president and director. Fischer has taught at Carnegie Mellon University, the Massachusetts Institute of Technology, and the University of Washington. 
+ 
+ Representative Publications: 
+ 
+ 
+ “A simple game for the study of trust in distributed systems,” with Z. Diamadi, Wuhan University Journal of Natural Sciences, 6(1-2):72-82, 2001. 
+ 
+ 
+ “Bounds on secret key exchange using a random deal of cards,” with R.N. Wright, Journal of Cryptology, 9(2):71-99, 1996. 
+ 
+ 
+ “Impossibility of distributed consensus with one faulty process,” with N.A. Lynch, and M.S. Paterson, Journal of the ACM 32(2):374-382, 1985. 
+ 
+ 
+ “Parallel prefix computation,” with R.E. Ladner, Journal of the ACM 27(4):831-838, 1980. 
+ 
+
+David Gelernter, B.A.,  Y ale University, 1976 Ph.D., The State University of  N ew York at Stony Brook, 1982  J oined  Y ale Faculty 1982 
+ 
+   
+ Professor of Computer Science  Address:  AKW 107, 51 Prospect St, New Haven, CT 06511-8937 203-432-1240 david.gelernter@yale.edu David Gelernter is professor of computer science at Yale, chief scientist at Mirror Worlds Technologies, contributing editor at the Weekly Standard and member of the National Council of the Arts. He’s the author of several books and many technical articles; also essays, art criticism and fiction. The “tuple spaces” introduced in Carriero and Gelernter’s Linda system (1983) are the basis of many computer-communication and distributed programming systems worldwide. “Mirror Worlds” (1991) “foresaw” the World Wide Web (Reuters, 3/20/01) and was “one of the inspirations for Java”; the “lifestreams” system (first implemented by Eric Freeman at Yale) is the basis for Mirror Worlds Technologies’ software. “Breaking out of the box” (NY Times magazine, ‘97) forecast and described the advent of less-ugly computers (Apple’s iMac arrived in ‘98). Gelernter’s essays are widely anthologized (for example in J. Brockman, ed., “The Next Fifty Years: new essays from 25 of the world’s leading scientists” (Vintage, 2002), R. Stolley, ed., “Life Magazine - Century of Change,” (Little Brown, 2001), and the ACM’s 50th Anniversary collection). 
+ He’s the author of “The Muse in the Machine” (1994, about poetry and AI), the novel “1939” (1995), “Machine Beauty” (1998, about aesthetics and technology) and other books; he’s published in Commentary, ArtNews, Washington Post and many others. Recent talks include the Bradley Lecture at the American Enterprise Institute, keynotes at Agenda 2003, Intl. Wireless World, PC Expo, and the 2002 Organick Lecture in Computer Science at Univ Utah. 
+ 
+ Representative Publications: 
+ 
+ 
+ “Three programming systems and a computational ‘model of everything,’” in Peter J. Denning, ed., ACM’s new [still untitled] Visions-of-computing Anthology, forthcoming, mid-August ‘01. 
+ 
+ 
+ “Twentieth Century Machines,” in R. Stolley, ed., LIFE Century of Change (2000). 
+ 
+ 
+ “Computers and the pursuit of happiness,” COMMENTARY, Dec 2000. 
+ 
+ 
+ “Now that the PC is dead…,” WALL STREET JOURNAL “millennium issue,” Jan 1, 2000 
+ 
+
+Anurag Khandelwal,  J oining  Y ale  J anuary 2020 
+ 
+   
+ Assistant Professor Address:  51 Prospect Street, New Haven, CT 06511
+Theodore Kim, B.S., Cornell University, M.S., University of  N orth Carolina, Chapel Hill, Ph.D., University of  N orth Carolina, Chapel Hill.  J oined  Y ale Faculty 2019. 
+ 
+   
+ Associate Professor of Computer Science Address:  AKW 412, 51 Prospect Street, New Haven, CT 06511 theodore.kim@yale.edu Website 
+ Prof. Kim researches topics in physics-based simulation, including  fire ,  water , and  humans . His work has appeared in over two dozen movies, and received a  2012 SciTech Oscar . Many of the results can be seen on  YouTube , and extensive source code is available on this page. Previously, he was a Senior Research Scientist at  Pixar Research , where he received screen credits in Cars 3, Coco, Incredibles 2, and Toy Story 4. His first (uncredited) work appeared on-screen on the Sorting Hat in Harry Potter and the Sorcerer’s Stone. 
+ He received a BS in Computer Science in 2001 from Cornell and a PhD in Computer Science from UNC Chapel Hill in 2006 under the supervision of  Ming Lin . He was a Post-Doctoral Fellow at IBM TJ Watson Research Center in 2007, and a Post-Doctoral Associate at Cornell University from 2008-2009 under the supervision of  Doug James . From 2011-2015, He was a faculty member at  UCSB  in the Media Arts and Technology Program and the Department of Computer Science. While there, I received the UCSB Harold J. Plous Award (Junior Faculty of the Year). From 2009-2011, he was an Assistant Professor in CS at the University of Saskatchewan. He interned for  Rhythm and Hues Studios  in 2000 and 2001. 
+   
+ Representative Publications: 
+ Analytic eigensystems for isotropic distortion energies. Breannan Smith, Fernando de Goes, and T. Kim.  ACM Transactions on Graphics , February 2019. 
+ Stable neo-hookean flesh simulation. Breannan Smith, Fernando de Goes, and T. Kim.  ACM Transactions on Graphics , March 2018. 
+ Quaternion julia set shape optimization. T. Kim.  Symposium on Geometry Processing (SGP)  2015. 
+ Wavelet turbulence for fluid simulation. T. Kim, Nils Thürey, Doug James, and Markus Gross.  ACM Transactions on Graphics (SIGGRAPH)  2008. 
+ Optimizing cubature for efficient integration of subspace deformations. Steven An, T. Kim, and Doug James.  ACM Transactions on Graphics (SIGGRAPH Asia)  2008. 
+ Modeling ice dynamics as a thin film stefan problem. T. Kim, David Adalsteinsson, Ming Lin.  Symposium on Computer Animation (SCA ) 2006. 
+ 
+
+Ruzica Piskac, Ph.D EPFL, Switzerland 2011.  J oined  Y ale Faulty 2013. 
+ 
+   
+ Dubinsky Associate Professor of Computer Science Address:  AKW 212, 51 Prospect St, New Haven, CT 06511-8937 203-432-8001 ruzica.piskac@yale.edu Website Office Location: AKW 212 
+Telephone: 203.432.8001 
+ Ruzica Piskac is an associate professor at Yale, Computer Science Department. Her research interests span the areas of programming languages, software verification, automated reasoning, and code synthesis. A common thread in Ruzica’s research is improving software reliability and trustworthiness using formal techniques. 
+ Prior to joining Yale, Ruzica was an independent research group leader at the Max Planck Institute for Software Systems (MPI-SWS) in Germany (January 2012-August 2013). She was head of the Synthesis, Analysis and Automated Reasoning Group. 
+ Ruzica did her graduate studies at EPFL, Switzerland (2007-2011), where she worked under the supervision of Viktor Kuncak. She was awarded the Patrick Denantes Memorial Prize for her PhD dissertation. She holds a Master’s degree in Computer Science, obtained at the Max-Planck Institute for Computer Science in Saarbruecken, Germany, as well as a Master’s degree in mathematics from the University of Zagreb, Croatia. 
+ 
+ Representative Publications: 
+ 
+ 
+ Incremental, Inductive Coverability , with J. Kloos, R. Majumdar, F. Niksic. To appear in the Proceedings of 25th International Conference on Computer Aided Verification (CAV 2013). 
+ 
+ 
+ Automating Separation Logic using SMT , with T. Wies, D. Zufferey. Proceedings of 25th International Conference on Computer Aided Verification - CAV 2013, Saint Petersburg, Russia, p. 773-789. An extended version of this paper is available as  NYU Technical Report TR2013-954 , March, 2013. 
+ 
+ 
+ Complete Completion using Types and Weights , with T. Gvaro, I. Kuraj, V. Kuncak. To appear in the Proceedings of 34th annual ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI 2013). 
+ 
+ 
+ Software Synthesis Procedures , with V. Kuncak, M. Mayer, P. Suter. Communications of the ACM, Volume 55, Number 2, p. 103-111, DOI: 10.1145/2076450.2076472 February 2012. 
+ 
+ 
+ Interactive Synthesis of Code Snippets  , with T. Gvero, V. Kuncak. Proceedings of the 23rd International Conference on Computer Aided Verification - CAV 2011, Snowbird, UT, USA. Springer, LNCS Volume 6806, p. 418-423. USA. 
+ 
+
+Dragomir Radev, Ph.D. Computer Science; Columbia University 
+ 
+   
+ A. Bartlett Giamatti Professor of Computer Science Address:  Room 319, 17 Hillhouse Avenue, New Haven, CT 06511 203.436.4759 dragomir.radev@yale.edu Website 
+ Dragomir Radev’s interests include Natural Language Processing (NLP), Artificial Intelligence, Computational Linguistics, Machine Learning, Information Retrieval, Text Summarization, Network Analysis, Text Mining Applications of NLP to Bioinformatics, Social Network Analysis, Political Science, and the Humanities 
+ Awards Dragomir Radev has received 
+ Fellow of the ACM (Association for Computing Machinery) (2015) 
+ University of Michigan Faculty Recognition Award (2013) 
+ Linguistics Society of America: Linguistics, Language and the Public Award (2011) (as co-founder and program chair of  NACLO ) 
+ Secretary of ACL (Association for Computational Linguistics) (2006-2015) 
+ The Gosnell Prize for Excellence in Political Methodology (shared) (2006) 
+ University of Michigan UROP Faculty Award for Outstanding Research Mentorship (2004) 
+  
+ 
+ 
+ Selected Publications 
+(Full list of publications available  here) 
+ Rahul Jha, Amjad Abu-Jbara, Vahed Qazvinian, and Dragomir R. Radev. Nlp driven citation analysis for scientometrics.  Journal of Natural Language Engineering , 2016. 
+ Kathleen McKeown, Hal Daume III, Snigdha Chaturvedi, John Paparrizos, Kapil Thadani, Pablo Barrio, Or Biran, Suvarna Bothe, Michael Collins, Kenneth Fleischmann, Luis Gravano, Rahul Jha, Ben King, Kevin McInerney, Taesun Moon, Diarmuid O’Seaghdha, Dragomir Radev, Clay Templeton, and Simone Teufel. Predicting impact of scientific concepts using full text features.  Journal of the American Society for Information Science and Technology , 2016. 
+ Nikita Bhutani, H. V. Jagadish, and Dragomir Radev. Nested propositions in open information extraction. In  EMNLP , 2016. 
+ Catherine Finegan-Dollak, Reed Coke, Rui Zhang, Xiangyi Ye, and Dragomir Radev. Effects of creativity and cluster tightness on short text clustering performance. In  ACL , August 2016. 
+ Dragomir Radev, Amanda Stent, Joel Tetreault, Aasish Pappu, Aikaterini Iliakopoulou, Agustin Chanfreau, Paloma de Juan, Jordi Vallmitjana, Alejandro Jaimes, Rahul Jha, and Robert Mankoff. Humor in collective discourse: Unsupervised funniness detection in the new yorker cartoon caption contest. In  LREC , May 2016. 
+ William Wang, Yashar Mehdad, Dragomir Radev, and Amanda Stent. A low-rank approximation approach to learning joint embeddings of news stories and images for timeline summarization. In  HLT NAACL , June 2016. 
+ Rui Zhang, Honglak Lee, and Dragomir Radev. Dependency sensitive convolutional neural networks for modeling sentences and documents. In  HLT NAACL , June 2016. 
+ Arzucan Ozgur, Junghuk Hur, Zuoshuang Xiang, Edison Ong, , Dragomir R. Radev, and Yongqun He. Ignet: A centrality-and ino-based web system for analyzing and visualizing literature-mined networks. 2016. 
+ Catherine Finegan-Dollak and Dragomir R. Radev. Sentence Simplification, Compression, and Disaggregation for Summarization of Sophisticated Documents.  Journal of the American Society for Information Science and Technology , 2015. 
+ Vivi Nastase, Rada Mihalcea, and Dragomir R. Radev. A survey of graphs in natural language processing.  Journal of Natural Language Engineering , 2015. 
+ Dragomir R. Radev, Mark Joseph, Bryan Gibson, and Pradeep Muthukrishnan. A Bibliometric and Network Analysis of the Field of Computational Linguistics.  Journal of the American Society for Information Science and Technology , 2015. 
+ Rahul Jha, Reed Coke, and Dragomir R. Radev. Surveyor: A system for generating coherent survey articles for scientific topics. In  Proceedings of the Twenty-Ninth AAAI Conference , 2015. 
+ Rahul Jha, Catherine Finegan-Dollak, Ben King, Reed Coke, and Dragomir R. Radev. Content models for survey generation: A factoid-based evaluation. In  Proceedings of ACL 2015 , Beijing, China, 2015. 
+ Ahmed Hassan, Amjad Abu-Jbara, Wanchen Lu, and Dragomir R. Radev. A random walk based model for identifying semantic orientation.  Computational Linguistics , 40, 2014. 
+ Ben King, Rahul Jha, and Dragomir R. Radev. Heterogeneous networks and their applications: Scientometrics, name disambiguation, and topic modeling.  Transactions of the Association for Computational Linguistics , 2:1-14, 2014. 
+ Amjad Abu-Jbara, Jefferson Ezra, and Dragomir R. Radev. Purpose and polarity of citation: Towards nlp-based bibliometrics. In  Proceedings of the North American Association for Computational Linguistics , 2013. 
+ Amjad Abu-Jbara, Benjamin King, Mona Diab, and Dragomir R. Radev. Identifying opinion subgroups in arabic online discussions. In  Proceedings of The Association for Computational Linguistics  (short paper), 2013. 
+ Vahed Qazvinian, Dragomir R. Radev, Saif Mohammad, Bonnie Dorr, David Zajic, Michael Whidby, and Taesun Moon. Generating extractive summaries of scientific paradigms.  Journal of Artificial Intelligence Research (JAIR) , 46:165-201, 2013. 
+ Rahul Jha, Amjad Abu-Jbara, and Dragomir R. Radev. A system for summarizing scientific topics starting from keywords. In  Proceedings of The Association for Computational Linguistics  (short paper), 2013. 
+ Benjamin King, Rahul Jha, Dragomir R. Radev, and Robert Mankoff. Random walk factoid annotation for collective discourse. In  Proceedings of The Association for Computational Linguistics  (short paper), 2013. 
+ Patrick Littell, Lori Levin, Jason Eisner, and Dragomir Radev. Introducing computational concepts in a linguistics olympiad. In  Proceedings of the Fourth Workshop on Teaching NLP and CL, Association for Computational Linguistics , Sofia, Bulgaria, 2013. 
+ Amjad abu Jbara and Dragomir R. Radev. Reference scope identification in citation sentences. In  Proceedings of NAACL 2012 , Montreal, QC, 2012. 
+ Amjad abu Jbara, Pradeep Dasigi, Mona Diab, and Dragomir R. Radev. Subgroup detection in ideological discussions. In  Proceedings of ACL 2012 , Jeju Island, Korea, 2012. 
+ Ahmed Hassan, Amjad Abu-Jbara, and Dragomir Radev. Detecting subgroups in online discussions by modeling positive and negative relations among participants. In  Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning , pages 59-70, Jeju Island, Korea, July 2012. Association for Computational Linguistics. 
+ Yoshinobu Kano, Jari Bjorne, Filip Ginter, Tapio Salakoski, Ekaterina Buyko, Udo Hahn, K. Bretonnel Cohen, Karin Verspoor, Christophe Roeder, Lawrence E. Hunter, Halil Kilicoglu, Sabine Bergler, Sofie Van Landeghem, Thomas Van Parys, Yves van de Peer, Makoto Miwa, Sophia Ananiadou, Mariana Neves, Alberto Pascual-Montano, Arzucan Ozgur, Dragomir R. Radev, Sebastian Riedel, Rune Saetre, Hong-Woo Chun, Jin-Dong Kim, Sampo Pyysalo, Tomoko Ohta, and Jun’ichi Tsujii. U-compare bio-event meta-service: Compatible bionlp event extraction services.  BMC Bioinformatics , 2011. 
+ Arzucan Ozgur, Zhuohuang Xiang, Dragomir R. Radev, and Yongqun He. Mining of vaccine-associated ifn-gamma gene interaction networks using the vaccine ontology.  Journal of Biomedical Semantics , 2011. 
+ Amjad abu Jbara and Dragomir R. Radev. Coherent citation-based summarization of scientific papers. In  Proceedings of ACL 2011 , Portland, Oregon, 2011. 
+ Vahed Qazvinian and Dragomir Radev. Exploiting phase transition in similarity networks for clustering. In  Proceedings of the AAAI 2011 Conference , San Francisco, CA, August 2011. 
+ Vahed Qazvinian and Dragomir R. Radev. Learning from collective human behavior to introduce diversity in lexical choice. In  Proceedings of ACL 2011 , Portland, Oregon, 2011. 
+ Vahed Qazvinian, Emily Rosengren, Dragomir R. Radev, and Qiaozhu Mei. Rumor has it: Identifying misinformation in microblogs. In  Proceedings of EMNLP 2011 , Edinburgh, UK, 2011. 
+ Arzucan Ozgur, Zhuohuang Xiang, Dragomir R. Radev, and Yongqun He. Literature-based discovery of IFN-gamma and vaccine-mediated gene interaction networks.  Journal of Biomedicine and Biotechnology , 2010. 
+ Kevin Quinn, Burt Monroe, Michael Colaresi, Michael Crespin, and Dragomir R. Radev. How to analyze political attention with minimal assumptions and costs.  American Journal of Political Science , 2010. 
+ Ahmed Hassan and Dragomir R. Radev. Identifying text polarity using random walks. In  Proceedings of ACL 2010 , Uppsala, Sweden, 2010. 
+ Ahmed Hassan, Vahed Qazvinian, and Dragomir R. Radev. What’s with the attitude? a study of participant attitude in multi-party online discussions. In  Proceedings of EMNLP 2010 , Cambridge, Massachusetts, 2010. 
+ Qiaozhu Mei, Jian Guo, and Dragomir R. Radev. Divrank: the interplay of prestige and diversity in information networks. In  Proceedings of SIGKDD 2010 , Washington, DC, 2010. 
+ Pradeep Muthukrishnan, Dragomir R. Radev, and Qiaozhu Mei. Edge weight regularization over multiple graphs for similarity learning. In  IEEE ICDM , Sydney, Australia, 2010. 
+ Vahed Qazvinian and Dragomir R. Radev. Identifying non-explicit citing sentences for citation-based summarization. In  Proceedings of ACL 2010 , Uppsala, Sweden, 2010. 
+ Vahed Qazvinian, Dragomir R. Radev, and Arzucan Ozgur. Citation summarization through keyphrase extraction. In  COLING 2010 , Beijing, China, 2010. 
+ Aleks Aris, Ben Shneiderman, Vahed Qazvinian, and Dragomir R. Radev. Visual overviews for discovering key papers and influences across research fronts.  Journal of the American Society for Information Science and Technology , 2009. 
+ Jahna Otterbacher, Gunes Erkan, and Dragomir Radev. Biased LexRank: Passage Retrieval using Random Walks with Question-Based Priors.  Information Processing and Management , 45(1):42-54, 2009. 
+ V. G. Tarcea, T. Weymouth, A. Ade, A. Bookvich, J. Gao, V. Mahavisno, Z. Wright, A. Chapman, M. Jayapandian, A. Ozgur, Y. Tian, J. Cavalcoli, B. Mirel, J. Patel, D. Radev, B. Athey, D. States, and H. V. Jagadish. Michigan molecular interactions (mimi) r2: From interacting proteins to pathways.  Nucleic Acids Research , 37:D642-D646, January 2009. 
+ Ahmed Hassan, Dragomir R. Radev, Junghoo Cho, and Amruta Joshi. Content based recommendation and summarization in the blogosphere. In  Proceedings of ICWSM 2009 , San Jose, CA, 2009. 
+ Saif Mohammad, Bonnie Dorr, Melissa Egan, Ahmed Hassan, Pradeep Muthukrishan, Vahed Qazvinian, Dragomir R. Radev, and David Zajic. Generating surveys of scientific paradigms. In  Proceedings of HLT-NAACL 2009 , Boulder, CO, June 2009. 
+ Arzucan Ozgur and Dragomir R. Radev. Detecting speculations and their scopes in scientific text. In  EMNLP , Singapore, 2009. 
+ Arzucan Ozgur and Dragomir R. Radev. Supervised classification for extracting biomedical events. In  Proceedings of the BioNLP’09 Workshop Shared Task on Event Extraction at NAACL-HLT , Boulder, Colorado, June 2009. 
+ Aaron Elkiss, Siwei Shen, Anthony Fader, Gunes Erkan, David States, and Dragomir R. Radev. Blind men and elephants: What do citation summaries tell us about a research article?  Journal of the American Society for Information Science and Technology , 59(1):51-62, 2008. 
+ Florian Leitner, Martin Krallinger, Carlos Rodriguez-Penagos, Joerg Hakenberg, Conrad Plake, Cheng-Ju Kuo, Chun-Nan Hsu, Richard Tzong-Han Tasi, Hsi-Chuan Hung, William W. Lau, Calvin A. Johnson, Rune Saetre, Kazuhiro Yoshida, Yan Hua Chen, Sun Kim, Soo-Yong Shin, Byoung-Tak Zhang, William A. Baumgartner, Jr. , Lawrence Hunter, Barry Haddow, Michael Matthew, Xinglong Wang, Patrick Ruch, Frederic Ehrler, Arzucan Ozgur, Gunes Erkan, Dragomir R. Radev, Michael Krauthammer, ThaiBinh Luong, Robert Hoffmann, Chris Sander, and Alfonso Valencia. Introducing meta-services for biomedical information extraction.  Genome Biology , 9, September 2008. 
+ Jahna Otterbacher and Dragomir Radev. Exploring Fact-focused Relevance and Novelty Detection.  Journal of Documentation , 64(4), 2008. 
+ Jahna Otterbacher, Dragomir Radev, and Omer Kareem. Hierarchical Summarization for Delivering Information to Mobile Devices.  Information Processing and Management , 44(2):931-947, 2008. 
+ Arzucan Ozgur, Thuy Vu, Gunes Erkan, and Dragomir R. Radev. Identifying gene-disease associations based on centrality on a literature mined gene interaction network.  Bioinformatics , 24:i277-i285, 2008. 
+ Ahmed Hassan, Anthony Fader, Michael Crespin, Kevin Quinn, Burt Monroe, Michael Colaresi, and Dragomir R. Radev. Tracking the dynamic evolution of participant salience in a discussion. In  COLING 2008 , Manchester, UK, 2008. 
+ Pradeep Muthukrishnan, Joshua Gerrish, and Dragomir R. Radev. Detecting multiple facets of an event using graph-based unsupervised methods. In  COLING 2008 , Manchester, UK, 2008. 
+ Vahed Qazvinian and Dragomir R. Radev. Scientific paper summarization using citation summary networks. In  COLING 2008 , Manchester, UK, 2008. 
+ Dragomir R. Radev, Lori S. Levin, and Thomas E. Payne. The North American Computational Linguistics Olympiad (NACLO). In  Proceedings, The Third Workshop on Issues in Teaching Computational Linguistics , Columbus, OH, 2008. 
+ Gunes Erkan, Arzucan Ozgur, and Dragomir R. Radev. Extracting interacting protein pairs and evidence sentences by using dependency parsing and machine learning techniques. In  Proceedings of the Second BioCreAtIvE Challenge Workshop - Critical Assessment of Information Extraction in Molecular Biology , April 23-25 2007. 
+ Gunes Erkan, Arzucan Ozgur, and Dragomir R. Radev. Semi-supervised classification for extracting protein interaction sentences using dependency parsing. In  Proceedings of the Conference of Empirical Methods in Natural Language Processing (EMNLP ‘07) , Prague, Czech Republic, June 28-30 2007. 
+ Anthony Fader, Dragomir R. Radev, Michael H. Crespin, Burt L. Monroe, Kevin M. Quinn, and Michael Colaresi. MavenRank: Identifying influential members of the us senate using lexical centrality. In  Proceedings of the Conference of Empirical Methods in Natural Language Processing (EMNLP ‘07) , Prague, Czech Republic, June 28-30 2007. 
+ Jahna Otterbacher, Dragomir Radev, and Omer Kareem. News to Go: Hierarchical Text Summarization for Mobile Devices. In  29th Annual ACM SIGIR Conference on Research and Development in Information Retrieval , Seattle, Washington, August 2006. 
+ Kevin M. Quinn, Burt L. Monroe, Michael Colaresi, Michael H. Crespin, and Dragomir R. Radev. An automated method of topic-coding legislative speech over time with application to the 105th-108th U.S. Senate. In  Midwest Political Science Association Meeting , 2006. 
+ Wai Lam, Ki Chan, Dragomir Radev, Horacio Saggion, and Simone Teufel. Context-based generic cross-lingual retrieval of documents and automated summaries.  Journal of the American Society for Information Science and Technology,  56(2), February 2005. 
+ Dragomir R. Radev, Weiguo Fan, Hong Qi, Harris Wu, and Amardeep Grewal. Probabilistic question answering on the web.  Journal of the American Society for Information Science and Technology  56(3), March 2005. 
+ Dragomir R. Radev, Jahna Otterbacher, Adam Winkel, and Sasha Blair-Goldensohn. Newsinessence: Summarizing online news topics.  Communications of the ACM , 10 2005. 
+ Jahna Otterbacher, Gunes Erkan, and Dragomir R. Radev. Using random walks for question-focused sentence retrieval. In  Proceedings of HLT-EMNLP , Vancouver, BC, 2005. 
+ Gunes Erkan and Dragomir R. Radev. Lexrank: Graph-based centrality as salience in text summarization.  Journal of Artificial Intelligence Research (JAIR) , 2004. 
+ Dragomir R. Radev, Hongyan Jing, Malgorzata Stys, and Daniel Tam. Centroid-based summarization of multiple documents.  Information Processing and Management , 40:919-938, December 2004. 
+ Franz Josef Och, Daniel Gildea, Sanjeev Khudanpur, Anoop Sarkar, Kenji Yamada, Alex Fraser, Shankar Kumar, Libin Shen, David Smith, Katherine Eng, Viren Jain, Zhen Jin, and Dragomir Radev. A smorgasbord of features for statistical machine translation. In  Proceedings of HLT-NAACL 2004 , Boston, MA, May 2004. 
+ Jahna C. Otterbacher and Dragomir Radev. Comparing semantically related sentences: The case of paraphrase versus subsumption.  COLING 2004 , August 23rd-27th 2004. 
+ Dragomir R. Radev, Hong Qi, Daniel Tam, and Adam Winkel. Computational linkuistics: word triggers across hyperlinks. In  Proceedings of HLT-NAACL 2004  (short paper), 2004. 
+ James Pustejovsky, Patrick Hanks, Roser Sauri, Andrew See, Robert Gaizauskas, Andrea Setzer, Dragomir Radev, Beth Sundheim, David Day, Lisa Ferro, and Marcia Lazo. The TIMEBANK Corpus. In  Proceedings of Corpus Linguistics 2003 , pages 647-656, Lancaster, UK, March 2003. 
+ James Pustejovsky, Jose Casta no, Robert Ingria, Roser Sauri, Robert Gaizauskas, Andrea Setzer, Graham Katz, and Dragomir R. Radev. TimeML: Robust specification of event and temporal expressions in text. In  Proceedings, AAAI Spring Symposium on New Directions in Question Answering , Stanford, CA, March 2003. 
+ Dragomir R. Radev, Simone Teufel, Horacio Saggion, Wai Lam, John Blitzer, Hong Qi, Arda Celebi, Danyu Liu, and Elliott Drabek. Evaluation challenges in large-scale multi-document summarization: the mead project. In  Proceedings of ACL 2003 , Sapporo, Japan, 2003. 
+ Zhu Zhang, Jahna Otterbacher, and Dragomir R. Radev. Combining labeled and unlabeled data for learning cross-document structural relationships. In  Proceedings of ACM CIKM 2003 , New Orleans, LA, November 2003. 
+ Dragomir R. Radev, Kelsey Libner, and Weiguo Fan. Getting Answers to Natural Language Queries on the Web.  Journal of the American Society for Information Science and Technology , 53(5):359-364, 2002. 
+ Dragomir R. Radev, Weiguo Fan, Hong Qi, Harris Wu, and Amardeep Grewal. Probabilistic Question Answering from the Web. In  The 11th International World Wide Web Conference , Honolulu, Hawaii, May 2002. 
+ Horacio Saggion, Dragomir Radev, Simone Teufel, and Wai Lam. Meta-evaluation of summaries in a cross-lingual environment using content-based metrics. In  Proceedings of COLING’2002 , Taipei, Taiwan, August 2002. 
+ Zhu Zhang, Sasha Blair-Goldensohn, and Dragomir Radev. Towards CST-enhanced summarization. In  Proceedings of the AAAI 2002 Conference , Edmonton, Alberta, July - August 2002. 
+ John Prager, Dragomir R. Radev, and Krzysztof Czuba. Answering what-is questions by virtual annotation.  In Proceedings, HLT-2001 , San Diego, CA, March 2001. 
+ Dragomir R. Radev, Sasha Blair-Goldensohn, Zhu Zhang, and Revathi Sundara Raghavan. Interactive, domain-independent identification and summarization of topically related news articles. In  Proceedings, 5th European Conference on Research and Advanced Technology for Digital Libraries , Darmstadt, Germany, September 2001. 
+ Dragomir R. Radev, Hong Qi, Zhiping Zheng, Sasha Blair-Goldensohn, Zhu Zhang, Weiguo Fan, and John Prager. Mining the web for answers to natural language questions. In  ACM CIKM 2001: Tenth International Conference on Information and Knowledge Management , Atlanta, GA, 2001. 
+ John Prager, Eric Brown, Anni Coden, and Dragomir Radev. Question-answering by predictive annotation. In  Proceedings, 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval , Athens, Greece, July 2000. 
+ Dragomir R. Radev, John Prager, and Valerie Samn. Ranking potential answers to natural language questions. In  Proceedings of the 6th Conference on Applied Natural Language Processing , Seattle, WA, May 2000. 
+ Alfred Aho, Shih-Fu Chang, Kathleen McKeown, Dragomir Radev, John Smith, and Kazi Zaman. Columbia Digital News Project.  International Journal of Digital Libraries , 1(4):377-385, 1998. 
+ Dragomir R. Radev and Kathleen R. McKeown. Generating natural language summaries from multiple on-line sources.  Computational Linguistics , 24(3):469-500, September 1998. 
+ Dragomir R. Radev. Learning correlations between linguistic indicators and semantic constraints: Reuse of context-dependent descriptions of entities. In  Proceedings, 17th International Conference on Computational Linguistics and 36th Annual Meeting of the Association for Computational Linguistics COLING-ACL’98 , Montreal, Canada, August 1998. 
+ Alfred Aho, Shih-Fu Chang, Kathleen McKeown, Dragomir Radev, John Smith, and Kazi Zaman. Columbia Digital News System : An environment for briefing and search over multimedia information. In  Proceedings, IEEE International Conference on the Advances of Digital Libraries ADL’97 , Washington, DC, May 1997. 
+ Dragomir R. Radev and Kathleen R. McKeown. Building a generation knowledge source using internet-accessible newswire. In  Proceedings, Fifth ACL Conference on Applied Natural Language Processing ANLP’97 , pages 221-228, Washington, DC, April 1997. 
+ Evelyne Tzoukermann and Dragomir R. Radev. Using word class for part-of-speech disambiguation. In  Proceedings, Fourth Workshop on Very Large Corpora WVLC’96 , pages 1-13, Copenhagen, Denmark, August 1996. COLING. 
+ Kathleen R. McKeown and Dragomir R. Radev. Generating summaries of multiple news articles. In  Proceedings, ACM Conference on Research and Development in Information Retrieval SIGIR’95 , pages 74-82, Seattle, Washington, July 1995. 
+ Evelyne Tzoukermann, Dragomir R. Radev, and William A. Gale. Combining linguistic knowledge and statistical learning in French part-of-speech tagging. In  Proceedings, EACL Workshop on Very Large Corpora WVLC’95 , pages 51-57, Dublin, Ireland, February 1995. EACL.
+ 
+  
+ 
+
+Vladimir Rokhlin, M.S., University of Vilnius in Lithuania; Ph.D., Rice University 
+ 
+   
+ Arthur K. Watson Professor Computer Science and Mathematics; Director of Graduate Studies in Computer Science. Joined Yale Faculty 1985. Address:  AKW 108, 51 Prospect St, New Haven, CT 06511-8937 203-432-1278 vladimir.rokhlin@yale.edu Vladimir Rokhlin’s research interests include fast deterministic and randomized algorithms of computational mathematics, numerical scattering theory, partial differential equations, integral equations, quadrature formulae, numerical harmonic analysis, numerical linear algebra, special functions, “fast” algorithms of numerical linear algebra. 
+ Rokhlin is a member of the National Academy of Sciences; Member of the National Academy of Engineering; recipient of the 2001 Leroy P. Steele Prize for a Seminal contribution to Research; recipient of the 2001 Rice University Distinguished Alumnus Award; recipient of the 2006 Institute of Electrical and Electronics Engineers (IEEE) Honorary Membership; 2009 SIAM Fellow; recipient of the 2011 Maxwell Prize from the ICIAM; recipient of the 2014 William Benter Prize, and Fellow of the American Academy of Arts and Sciences, 2016. 
+ 
+ Representative Publications: 
+ 
+ 
+ “A Fast Algorithm for Particle Simulations,” with L. Greengard, Journal of Computational Physics, 73(1) : 325 (1987). 
+ 
+ 
+ “Diagonal Forms of Translation Operators for the Helmholtz Equation in Three Dimensions,” Applied and Computational Harmonic Analysis 1:82-93, 1993. 
+ 
+ 
+ “Randomized Algorithms for the Low-Rank Approximation of Matrices,” with E. Liberty, F. Woolfe, P.G. Martinsson, and M. Tygert, PNAS, V. 104, No. 51, pp. 20167-20172, 2007. 
+ 
+
+Holly Rushmeier, Cornell University, Ithaca, NY Major: Mechanical Engineering BS 1977, MS 1986, PhD 1988.  J oined  Y ale Faculty 2004. 
+ 
+   
+ John C. Malone Professor of Computer Science Address:  AKW 207, 51 Prospect St, New Haven, CT 06511-8937 203-432-4091 holly.rushmeier@yale.edu Website Holly Rushmeier received the BS, MS and PhD degrees in Mechanical Engineering from Cornell University in 1977, 1986 and 1988 respectively. Between receiving the BS and returning to graduate school in 1983 she worked as an engineer at the Boeing Commercial Airplane Company and at Washington Natural Gas Company (now a part of Puget Sound Energy). In 1988 she joined the Mechanical Engineering faculty at Georgia Tech. While there she conducted sponsored research in the area of computer graphics image synthesis and taught classes heat transfer and numerical methods at both the undergraduate and graduate levels. At the end of 1991 Dr. Rushmeier joined the computing and mathematics staff of the National Institute of Standards and Technology, focusing on scientific data visualization. 
+ From 1996 to early 2004 Dr. Rushmeier was a research staff member at the IBM T.J. Watson Research Center. At IBM she worked on a variety of data visualization problems in applications ranging from engineering to finance. She also worked in the area of acquisition of data required for generating realistic computer graphics models, including a project to create a digital model of Michelangelo’s Florence Pieta, and the development of a scanning system to capture shape and appearance data for presenting Egyptian cultural artifacts on the World Wide Web. 
+ Dr. Rushmeier was Editor-in-Chief of ACM Transactions on Graphics from 1996-99. She has also served on the editorial board of IEEE Transactions on Visualization and Computer Graphics. She is currently on the editorial boards of IEEE Computer Graphics and Applications and Computer Graphics Forum. In 1996 she served as the papers chair for the ACM SIGGRAPH conference, in 1998 as the papers co-chair for the IEEE Visualization conference and in 2000 as the papers co-chair for the Eurographics Rendering Workshop. She has also served in numerous program committees including multiple years on the committees for SIGGRAPH, IEEE Visualization, Eurographics, Eurographics Rendering Workshop, and Graphics Interface. 
+ Dr. Rushmeier has lectured at many meetings and academic institutions, including three invited keynote presentations at international meetings (Eurographics Rendering Workshop 94, 3DIM 01 , Eurographics Conference 2001.) She has spoken at and/or organized many tutorials and panels at the SIGGRAPH and IEEE Visualization conferences. Dr. Rushmeier was appointed chair of the Computer Science Department, effective July 1, 2011. 
+ 
+ Representative Publications 
+ 
+ 
+ F. Bernardini, I. Martin, J. Mittleman, H. Rushmeier, G. Taubin. “Building a Digital Model of Michelangelo’s Florentine Pieta’.” IEEE Computer Graphics & Applications, Jan. 2002, pp. 59-67. 
+ 
+ 
+ F. Bernardini and H. Rushmeier. “The 3D Model Acquisition Pipeline.” Computer Graphics Forum, Vol. 21, No. 2, 2002, pp. 149-172. 
+ 
+ 
+ G. Larson, H. Rushmeier and C. Piatko, “A Visibility Matching Tone Reproduction Operator for High Dynamic Range Scenes,” , IEEE Transactions on Visualization and Computer Graphics, October-December 1997, Vol. 3, No. 4, pp. 291-306. 
+ 
+ 
+ S. E. Chen, H. Rushmeier, G. Miller and D. Turner. “A Progressive Multipass Method for Global Illumination.” Computer Graphics (Proceedings of the ACM SIGGRAPH Conference) 25(4) (July 1991) 165-174. 
+ 
+ 
+ H. Rushmeier and K. Torrance. “The Zonal Method for Calculating Light Intensities in the Presence of a Participating Medium.” Computer Graphics (Proceedings of the ACM SIGGRAPH Conference) 21(5) (July 1987) 293-302. 
+ 
+
+Brian Scassellati, B.S., Brain and Cognitive Science, MIT, 1995 B.S., M.Eng., Ph.D., Computer Science, MIT, 1995, 1995, 2001  J oined  Y ale Faculty 2001. 
+ 
+   
+ A. Bartlett Giamatti Professor of Computer Science and Professor of Mechanical Engineering and Materials Science Address:  AKW 501, 51 Prospect St, New Haven, CT 06511-8937 203-432-1219 brian.scassellati@yale.edu Website Brian Scassellati builds human-like robots to investigate models of human development. Many scientists have used computer simulations to model complex interactions of neural function, sensory processing, and motor control. Scassellati believes that robotics offers a new kind of tool in investigating human behavior. By building robotic systems based on models of human intelligence, the full complexity of real world environments can be used in evaluating these models. This research integrates work from artificial intelligence, machine vision, classical robotics, psychology, cognitive science, and human-machine interfaces. 
+ One of the major focuses of Scassellati’s work has been on how children develop social skills and an understanding of other people. Children gradually acquire many skills that allow them to learn from their interactions with adults, such as responding to pointing gestures, recognizing what someone else is looking at, and representing that other people have beliefs, goals, and desires that differ from those of the child. These abilities have often been called a “theory of mind” and are believed to be critical for language acquisition, for self-recognition, and in the development of imaginative play. Computational models of these skills are being developed, implemented, and tested on robotic platforms currently under construction. His previous robots have performed tasks such as imitating human arm gestures, distinguishing animate from inanimate stimuli based on self-propelled motion criteria, and learning to reach for visual targets. 
+ By building machines with social skills, we can not only begin to model human development but also construct machines with more natural interfaces. Machines that can engage in the same social dynamics that people use with each other will be easier to use, will be usable in a wider range of situations, and will not require the user to learn arbitrary commands. 
+ One of Scassellati’s current projects is to develop robotic systems that aid in the diagnosis of autism by autonomously classifying social interactions. He is also currently building a new robotic system that will help teach social skills to autistic children. Additional projects focus on how children build a representation of objects as entities that exist through space and time, how animate stimuli are distinguished from inanimate objects, how sensation and motor control coordination are achieved in simple arm movements, and how children and animals distinguish themselves from others. 
+ 
+ Representative Publications: 
+ 
+ 
+ “Distinguishing Animate from Inanimate Visual Stimuli,” International Joint Conference on Artificial Intelligence (IJCAI), 2001. 
+ 
+ 
+ “Challenges in Building Robots that Imitate People,” with C. Breazeal, K. Dautenhahn and C. Nehaniv, eds., Imitation in Animals and Artifacts, MIT Press, 2001. 
+ 
+ 
+ “Theory of Mind for a Humanoid Robot,” Autonomous Robots, 12, 13-24, 2002. 
+ 
+ 
+ “A Context-Dependent Attention System for a Social Robot,” with C. Breazeal, International Joint Conference on Artificial Intelligence (IJCAI), 1999. 
+ 
+
+Zhong Shao, B.S., University of Science and  T echnology of China, 1988 M.A., Ph.D., Princeton University, 1991, 1994.  J oined  Y ale Faculty 1994. 
+ 
+   
+ Thomas L. Kempner Professor of Computer Science; Department Chair of Computer Science Department Address:  AKW 314, 51 Prospect St, New Haven, CT 06511-8937 203-432-6828 zhong.shao@yale.edu Website Zhong Shao is a Professor of Computer Science at Yale University. His research interests include programming languages, compilers, formal methods, and operating systems. He earned his Ph.D. in Computer Science from Princeton University in 1994. During his early career, he was a key developer and author of many key compilation phases used in the Standard ML of New Jersey compiler, and also one of the first to build a type-based intermediate representation in a functional-language compiler. He designed and developed the first production-quality type-preserving compiler for the entire Standard ML 1997 language extended with higher-order modules and was the main architect of the FLINT certifying infrastructure. 
+ In recent years, he has been interested in developing and applying new language-based technologies to build certified system software (e.g., OS kernels and hypervisors). Certified software consists of a binary machine executable plus a rigorous machine-checkable proof that the software is free of bugs with respect to specific requirements. A certified OS kernel is a library-based kernel but with formal specifications and proofs about all of its abstraction layers and system libraries. Dr. Shao’s current research intends to attack the following three important questions: (1) Under a clean-slate approach, what are the right OS kernel structures that can offer the best support for resilience, extensibility, and security? (2) What are the best programming languages and developing environments for implementing such certified kernels? (3) What new formal methods we need to develop in order to support these new languages and make certified kernels both practical and scalable? 
+ 
+ Representative Publications: 
+ 
+ 
+   
+ 
+ 
+ “A Type System for Certified Binaries,” with V. Trifonov, B. Saha, and 
+N. Papaspyrou, ACM Transactions on Programming Languages and Systems 
+(TOPLAS), 27(1):1-45, January 2005. 
+ 
+ 
+   
+ 
+ 
+ “Certified Self-Modifying Code,” with H. Cai, In Proc. 2007 ACM 
+SIGPLAN Conference on Programming Language Design and Implementation 
+(PLDI’07), June 2007. 
+ 
+ 
+   
+ 
+ 
+ “Certifying Low-Level Programs with Hardware Interrupts and Preemptive 
+Threads,” with X. Feng, Y. Guo, and Y. Dong, In Proc. 2008 ACM 
+SIGPLAN Conference on Programming Language Design and Implementation 
+(PLDI’08), June 2008. 
+ 
+ 
+   
+ 
+ 
+ “VeriML: Typed Computation of Logical Terms inside a Language with 
+Effects,” with A. Stampoulis, Proc 2010 ACM SIGPLAN International 
+Conference on Functional Programming (ICFP’10), September 2010. 
+ 
+
+Abraham Silberschatz, Ph.D. in Computer Science, State University of  N ew York (SUNY) at Stony Brook, 1976.  J oined  Y ale Faculty 2003. 
+ 
+   
+ Sidney J. Weinberg Professor Computer Science  Address:  AKW 308, 51 Prospect St, New Haven, CT 06511-8937 203-432-4713 abraham.silberschatz@yale.edu Website Avi Silberschatz is the Sidney J. Weinberg Professor of Computer Science at Yale University. Prior to joining Yale, he was the Vice President of the Information Sciences Research Center at Bell Laboratories, Murray Hill, New Jersey. Prior to that, he held a chaired professorship in the Department of Computer Sciences at the University of Texas at Austin. His research interests include database systems, operating systems, Bioscience database systems, storage system, network management, and distributed systems. 
+ Professor Silberschatz is a Fellow of ACM, a Fellow of IEEE, a Fellow of AAAS, and a member of the Connecticut Academy of Science and Engineering. He received the 2002 IEEE Taylor L. Booth Education Award, the 1998 ACM Karl V. Karlstrom Outstanding Educator Award, and the 1997 ACM SIGMOD Contribution Award. In recognition for his outstanding level of innovation and technical excellence, Silberschatz was awarded the Bell Laboratories President’s Award, in 1998 (QTM Project), 1999 (DataBlitz Project), and 2004 (NetInventory Project). 
+ Professor Silberschatz has graduated over a dozen Ph.D. students who now hold positions in academic institutions and industrial research laboratories. His writings have appeared in numerous ACM and IEEE publications and in other professional conferences and journals. He obtained over four dozen patents and over two dozen grants. He is a co-author of two well known textbooks – Operating System Concepts and Database System Concepts. 
+ Professor Silberschatz has written editorials dealing with technology and policy issues, which have appeared in various publications including The New York Times, Boston Globe, Hartford Courant, and Industry Standard, among others. 
+ 
+ Representative Publications: 
+ 
+ 
+ Abouzeid, A., D. Angluin, C. Papadimitriou. J. Hellerstein, and A. Silberschatz, “Learning and Verifying Quantified Boolean Queries by Example” PODS 2013, June 2013. 
+ 
+ 
+ Abouzeid, A., J. Hellerstein, and A. Silberschatz, “DataPlay: Interactive Tweaking and Example driven Correction of Graphical Database Queries,” ACM Symposium on User Interface Software and Technology, October 2012. 
+ 
+ 
+ Abouzeid, A., J. Hellerstein, and A. Silberschatz, “Playful Query Specification with DataPlay,” VLDB 2012, August 2012. 
+ 
+ 
+ Bajda-Pawlikowski, K., D. Abadi, A. Silberschatz, and A. Rasin, “Efficient Processing of Data Warehousing Queries in a Split Execution Environment” SIGMOD 2011, June 2011. 
+ 
+ 
+ Abouzeid, A., K. Bajda-Pawlikowski, D. Abadi, A. Silberschatz, and A. Rasin, “HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads,” VLDB 2009, August 2009. 
+ 
+ 
+ Xie, H., R. Yang, A. Krishnamurthy, and A. Silberschatz, “P4P: Provider Portals for (P2P) Applications,” SIGCOMM 2008, August 2008. 
+ 
+ 
+ Corwin, J., A. Silberschatz, P. Miller and L. Marenco, “Dynamic Tables: An Architecture for Managing Evolving, Heterogeneous Biomedical Data in Relational Database Management Systems,” Journal of American Medical Information Association, (January 2007). 
+ 
+ 
+ Yang, R., H. Xie, H. Wang, L. Li, Y. Liu, A. Silberschatz, and A. Krishnamurthy, “Stable Route Selection for Interdomain Traffic Engineering,” IEEE Network Magazine, 19, 6 (November/December 2005). 
+ 
+ 
+ Wang, H., H. Xie, L. Qiu, A. Silberschatz, and R. Yang, “Optimal ISP Subscription for Internet Multihoming: Algorithm Design and Implication Analysis,” INFOCOOM 2005, March 2005. 
+ 
+ 
+ Abiteboul, S., et al. “The Lowell Database Research Self-Assessment,” Communications of the ACM 48, 5, May 2005. 
+ 
+ 
+ Breitbart, Y., M. Garofalakis, B. Jai, C. Martin, R. Rastogi, and A. Silberschatz, “Topology Discovery in Heterogeneous IP Networks: The NetInventory System, Transactions on Networking, June 2004. 
+ 
+ 
+ Schnase, J.L., J. Cushing, M. Frame, A. Frondorf, E. Landis, D. Maier, and A. Silberschatz, “Information Technology challenges of biodiversity and ecosystems informatics,” Information Systems 28, 2003. 
+ 
+ 
+ Mehortra, S., H. Korth, R. Rastogi, and A. Silberschatz, “Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability,” ACM Transactions on Database Systems, June 1998. 
+ 
+ 
+ Silberschatz, A. and A. Tuzhilin, “What Make Patterns Interesting in Knowledge Discovery Systems,” IEEE Transactions on Knowledge and Data Engineering, December 1996. 
+ 
+ 
+ Ozden, B., R. Rastogi, and A. Silberschatz, “Research Issues in Multimedia Storage Servers.” ACM Computing Surveys, December 1995. 
+ 
+ 
+ Jagadish, H. V., I. Mumick, A. Silberschatz, “View Maintenance Issues for the Chronicle Data Model,” ACM SIGACT-SIGMOD Symposium on Principles of Database Systems, May 1995. 
+ 
+ 
+ Jagadish, H. V., D. Lieuwen, R. Rastogi, A. Silberschatz, and S. Sudarshan, “Dali: A High Performance Main Memory Storage Manager,” International Conference on Very Large Databases, September 1994. 
+ 
+ 
+ Read, R., D. Fussell, and A. Silberschatz “A Multi-Resolution Relational Data Model,” International Conference on Very Large Databases, August 1992. 
+ 
+ 
+ Silberschatz, A. and Z. Kedem, “Consistency in Hierarchical Database Systems,” Journal of the ACM 27, January 1980. 
+ 
+
+Robert Soulé, Ph.D. in Computer Science,  N ew York University, 2012; M.Sc. in Computer Science,  N ew York University, 2006; B.A. Brown University 1999.  J oined  Y ale Faculty 2019. 
+ 
+   
+ Assistant Professor of Computer Science Address:  AKW 206, 51 Prospect Street, New Haven, CT 06511 203.432.1215 robert.soule@yale.edu Website Robert Soulé’s research interests are in distributed systems, networking, and applied programming languages. He received his PhD from New York University in 2012, and his BA from Brown University in 1999. For two years he was a research co-op in the Data Intensive Systems and Analytics Group at IBM T.J. Watson Research Center. He is the recipient of an IBM Invention Plateau Award, a Google Faculty Research Award, and Best Paper Award at ACM DEBS 2012 and USENIX NSDI 2018. 
+
+Daniel Spielman, B.A.  Y ale 1992 Ph.D. MIT 1995.  J oined  Y ale Faculty 2005. 
+ 
+   
+ Sterling Professor of Computer Science and Professor of Statistics and Data Science and of Mathematics Address:  Room 340,17 Hillhouse Avenue, New Haven, CT 06511-8937 203-436-1264 daniel.spielman@yale.edu Website Daniel Spielman’s interests include the analysis of algorithms and heuristics, error-correcting codes, combinatorial scientific computing, spectral graph theory, and combinatorics. 
+ Awards Daniel Spielman has received are 
+ AMS Josiah Willard Gibbs Lectureship (2016) 
+ G ö del Prize, awarded jointly by the ACM and EATCS (2015) 
+ Polya Prize, awarded by SIAM (2014) 
+ Invited speaker at International Congress of Mathematicians (2014) 
+ MacArthur Fellowship (2012) 
+ Simons Investigator (2012) 
+ Fellow of the Association for Computing Machinery (2010) 
+ Rolf Nevanlinna Prize, awarded by the IMU (2010) 
+ Invited speaker at International Congress of Mathematicians (2010) 
+ Fulkerson Prize, awarded jointly by the AMS and MPS (2009) 
+ G ö del Prize, awarded jointly by the ACM and EATCS (2008) 
+ Invited speaker at International Congress of Mathematicians (2002) 
+ Alfred P. Sloan Foundation Research Fellowship (1998) 
+ NSF CAREER Award (1997) 
+ Selected Publications 
+ “Interlacing Families II: Mixed Characteristic Polynomials and the Kadison-Singer Problem”,  Annals of Mathematics , 182 (1), pp. 327-350. 2015. With A. Marcus and N. Srivastava. 
+ “Nearly-Linear Time Algorithms for Preconditioning and Solving Symmetric, Diagonally Dominant Linear Systems”.  SIAM Journal on Matrix Analysis and Applications , 35 (3), pp. 835-885, 2014. With S.-H. Teng. 
+ “Twice-Ramanujan Sparsifiers (Sigest)”,  SIAM Review , 56 (2), 315-334, 2014. With J. Batson and N. Srivastava. 
+ “A Local Clustering Algorithm for Massive Graphs and its Application to Nearly-Linear Time Graph Partitioning”.  SIAM Journal on Computing , vol 42 (1), pp. 1-26, 2013. With S.-H. Teng. 
+ “Smoothed Analysis of Algorithms: Why The Simplex Algorithm Usually Takes Polynomial Time,”  Journal of the ACM , Vol 51 (3), pp. 385 - 463, 2004. 
+ “Improved Low-Density Parity-Check Codes Using Irregular Graphs,”  IEEE Transactions on Information Theory , 47(2), pp. 585-598, Feb. 2001. With M. G. Luby, M. Mitzenmacher and M. A. Shokrollahi. 
+  
+
+Marynel Vázquez, Robotics Ph.D., M.S., Carnegie Mellon University  B.Eng., Universidad Simón Bolívar,  V enezuela. 
+ 
+   
+ Assistant Professor of Computer Science Address:  51 Prospect Street, New Haven, CT 06511 Website Marynel Vázquez is a computer scientist and roboticist. Her research focuses on understanding how to build interactive computing technologies that are meaningful, intuitive, and appropriate for users, especially in complex social environments. In particular, her research agenda centers on enabling social interactions between robots and multiple people. She creates systems that support these interactions and studies the intricacies of these encounters to understand how we can make robots better social actors. Marynel’s research crosses the boundaries between Human-Robot and Human-Computer Interaction, and often combines elements from robot perception, computer vision, machine learning, social science, and design. 
+ Selected Awards: 
+ 2014-2015 Generation Google Scholar 
+ 2012 Finalist of the Google Anita Borg Memorial Scholarship 
+ 2010 Apple Women in Engineering Scholar 
+ Representative Publications: 
+ 
+ 
+ Inducing Bystander Interventions During Robot Abuse with Social Mechanisms  X. Z. Tan, M. Vázquez, E. J. Carter, C. G. Morales, A. Steinfeld Proc. of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2018. 
+ 
+ 
+ 
+ 
+ Towards Robot Autonomy in Group Conversations: Understanding the Effects of Body Orientation and Gaze  M. Vázquez, E. J. Carter, B. McDorman, J. Forlizzi, A. Steinfeld, S. E. Hudson Proc. of the 2017 ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2017. 
+ 
+ 
+ 
+ 
+ Maintaining Awareness of the Focus of Attention of a Conversation: A Robot-Centric Reinforcement Learning Approach  M. Vázquez, A. Steinfeld, S. E. Hudson Proc. of the 2016 IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), 2016.  Finalist of the Best Paper Award (Technology category) and the RSJ/KROS Distinguished Interdisciplinary Research Award 
+ 
+ 
+ Parallel Detection of Conversational Groups of Free-Standing People and Tracking of their Lower-Body Orientation  M. Vázquez, A. Steinfeld, S. E. Hudson Proc. of the 2015 IEEE International Conference on Intelligent Robots and Systems (IROS), 2015. 
+ 
+ 
+ Spatial and Other Social Engagement Cues in a Child-Robot Interaction: Effects of a Sidekick  M. Vázquez, A. Steinfeld, S. E. Hudson, J. Forlizzi Proc. of the 2014 ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2014. 
+ 
+ 
+ An Assisted Photography Framework to Help Visually Impaired Users Properly Aim a Camera  M. Vázquez, A. Steinfeld ACM Transactions on Computer-Human Interaction, v. 21, n. 5, p. 25:1-25:29, 2014. 
+ 
+ 
+ 
+ 
+
+Nisheeth Vishnoi, B.  T ech., Computer Science and Engineering , Indian Institute of  T echnology Bombay, 1995-1999 Ph. D., Algorithms, Combinatorics and Optimization, Georgia Institute of  T echnology, 1999-2004.  J oined  Y ale Faculty  J anuary 2019. 
+ 
+   
+ Professor of Computer Science Address:  10 Hillhouse Avenue, New Haven, CT 06511 nisheeth.vishnoi@gmail.com Website My research spans several areas of theoretical computer science: from approximability of NP-hard problems, to combinatorial, convex and non-convex optimization, to tackling algorithmic questions involving dynamical systems, stochastic processes, and polynomials. 
+ I am also broadly interested in understanding and addressing some of the key questions that arise in nature and society from the viewpoint of theoretical computer science. Here, my current focus is on natural algorithms, emergence of intelligence, and questions at the interface of AI, Ethics, and Society. 
+ 
+ Selected Publications: 
+ Controlling Polarization in Personalization: An Algorithmic Approach, L. Elisa Celis, Sayash Kapoor, Farnood Salehi, Nisheeth K. Vishnoi,  ACM FAT*,  2019. 
+ Dimensionally Tight Running Time Bounds for Second-Order Hamiltonian Monte Carlo , Oren Mangoubi, Nisheeth K. Vishnoi,  NeurIPS , 2018. 
+ IRLS and Slime Mold: Equivalence and Convergence, Damian Straszak, Nisheeth K. Vishnoi,  Innovations in Theoretical Computer Science , 2017. 
+ The Unique Games Conjecture, Integrality Gap for Cut Problems and the Embeddability of Negative Type Metrics into ℓ 1 , Subhash Khot, Nisheeth K. Vishnoi,  Journal of the ACM , 62(1), 2015. 
+ Lx=b  (Laplacian Solvers and Their Algorithmic Applications) , Nisheeth K. Vishnoi,  Foundations and Trends in Theoretical Computer Science , Volume 8, Issue 1-2, 2012. 
+ 
+
+Y. Richard  Y ang, B.E., Tsinghua University, 1993 M.S., Ph.D., The University of  T exas at Austin, 1998, 2001.  J oined  Y ale Faculty 2001. 
+ 
+   
+ Professor of Computer Science and Electrical Engineering  Address:  AKW 308A, 51 Prospect St, New Haven, CT 06511-8937 203-432-6400 yang.r.yang@yale.edu Website Yang Richard Yang is interested in computer networks, network security, distributed multimedia, and real-time systems. His latter research focuses are on end-to-end network congestion control and secure multicast. For congestion control, his research has spanned the life cycle of congestion control: design of new congestion control scheme, characterization of congestion control protocols, evaluation of the impacts of congestion control on emerging multimedia applications, and extension of unicast congestion control to multicast congestion control. For secure multicast, he is one of the main developers of keygem, a multicast group key management system that implements scalable and reliable rekeying. 
+ Yang is currently interested in the problems of network congestion control and group key management in the context of wireless and mobile networks as well as a network under denial of service attack. Given his past experience, he also follows closely the researches in artificial intelligence and database. 
+ 
+ Representative Publications: 
+ 
+ 
+ “Reliable Group Rekeying: A Performance Analysis,” with X. Li, X. Zhang, and S.S. Lam, Proceedings of ACM SIGCOMM 2001, San Diego, CA, USA, August 2001. 
+ 
+ 
+ “Transient Behaviors of TCP-friendly Congestion Control Protocols,” with M. Kim, and S.S. Lam, Proceedings of INFOCOM 2001, Anchorage, Alaska, April 2001. 
+ 
+ 
+ “General AIMD Congestion Control,” with S.S. Lam, Proceedings of ICNP 2000, Osaka, Japan, November 2000. 
+ 
+
+Lin Zhong,  J oining  Y ale  J anuary 2020 
+ 
+   
+ Professor of Computer Science Address:  51 Prospect Street, New Haven, CT 06511
+Steven Zucker, B. Eng., Carnegie-Mellon University, 1969 M. Eng., Ph.D., Drexel University, 1972, 1975.  J oined  Y ale Faculty 1996. 
+ 
+   
+ David and Lucile Packard Professor of Computer Science and Biomedical Engineering Address:  AKW 407, 51 Prospect St, New Haven, CT 06511-8937 203-432-6434 steven.zucker@yale.edu Website Steven W. Zucker is the David and Lucile Packard Professor of Computer Science and Electrical Engineering at Yale University. Before moving to Yale in 1996, he was a Professor of Electrical Engineering at McGill University, Director of the Program in Artificial Intelligence and Robotics of the Canadian Institute for Advanced Research, and the Co-Director of the Computer Vision and Robotics Laboratory in the McGill Research Center for Intelligent Machines. He was elected a Fellow of the Canadian Institute for Advanced Research, a Fellow of the IEEE, and (by)Fellow of Churchill College, Cambridge. 
+ Professor Zucker obtained his education at Carnegie-Mellon University in Pittsburgh and at Drexel University in Philadelphia, and was a post-doctoral Research Fellow in Computer Science at the University of Maryland, College Park. He was Professor Invité at Institut National de Recherche en Informatique et en Automatique, Sophia-Antipolis, France, in 1989, a Visiting Professor of Computer Science at Tel Aviv University in January, 1993, and an SERC Fellow of the Isaac Newton Institute for Mathematical Sciences, University of Cambridge. 
+ Prof. Zucker has authored or co-authored more than 130 papers on computational vision, biological perception, artificial intelligence and robotics, and serves on the editorial boards of 8 journals. 
+ 
+ Representative Publications: 
+ 
+ 
+ “Complexity, Confusion, and Perceptual Grouping,” with B. Dubuc, Intnl Journal of Computer Vision, 42:55-115, 2001. 
+ 
+ 
+ “Which Computation Runs in Visual Cortical Columns?,” Problems in Systems Neuroscience, J. Leo van Hemmen and T. J. Sejnowski (eds.), Oxford University Press, 2001. 
+ 
+ 
+ “Computing with Self-Excitatory Cliques: A Model and An Application to Hyperacuity-scale Computation in Visual Cortex,” with D. Miller, Neural Computation, 11(1):21-66, 1999. 
+ 
+ 
+ “Matching hierarchical structures using association graphs,” with M. Pelillo and K. Siddiqi, IEEE Trans. Pattern Analysis and Machine Intelligence, 21(11):1105-1119, 1999. 
+ 
+
